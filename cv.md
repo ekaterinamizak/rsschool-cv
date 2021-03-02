@@ -12,3 +12,18 @@ At the moment, I am finishing my master's degree in a technical specialty, not r
 
 # Skills
 Python, HTML, CSS, JavaScript, Git
+
+# Sample code
+```
+n = int(input())
+m1 = n
+m2 = 0
+while n != 0:
+    n = int(input())
+    if n >= m1:
+        m2 = m1
+        m1 = n
+    if m2 < n < m1:
+        m2 = n
+print(m2)
+```
