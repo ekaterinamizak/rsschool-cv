@@ -27,3 +27,18 @@ while n != 0:
         m2 = n
 print(m2)
 ```
+
+# Work experience
+
+# Education
+* St. Petersburg Mining University, Bachelor's Degree in Oil and Gas Engineering, 2015-2019
+
+* Cisco IT Essentials, 2015
+
+* Introduction to Git, Hexlet, 2021
+
+* Сommand line basics, Hexlet, 2021
+
+
+# English language
+Upper-Intermediate
