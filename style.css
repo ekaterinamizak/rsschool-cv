@@ -1,0 +1,9 @@
+main {
+    margin: 50px auto;
+    width: 600px;
+}
+#userpic {
+    float: right;
+    width: 156px;
+    height: 200px;
+}
